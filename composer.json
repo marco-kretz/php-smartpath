@@ -1,0 +1,20 @@
+{
+    "name": "marco-kretz/smartpath",
+    "description": "Extract information from XML via XPATH",
+    "authors": [
+        {
+            "name": "Marco Kretz",
+            "email": "mk@marco-kretz.de"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "MarcoKretz\\PHPUtils": "src"
+        }
+    },
+    "repositories": [
+        "type": "git",
+        "url": "https://github.com/marco-kretz/php-smartpath"
+    ]
+}
